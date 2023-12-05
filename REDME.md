@@ -5,5 +5,5 @@
 para rodar esse projeto na sua maquina
 
 ```
-nem install react
+node app.js
 ```
